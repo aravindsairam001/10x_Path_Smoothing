@@ -1,0 +1,20 @@
+[0.005s] Invoking command in '/home/aero-ws/10x_Path_Smoothing/ros2_integration/build/path_smoothing_turtlebot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/aero-ws/10x_Path_Smoothing/ros2_integration -DCMAKE_INSTALL_PREFIX=/home/aero-ws/10x_Path_Smoothing/ros2_integration/install/path_smoothing_turtlebot
+[0.008s] [33mCMake Warning (dev) in CMakeLists.txt:
+[0.009s]   No project() command is present.  The top-level CMakeLists.txt file must
+[0.009s]   contain a literal, direct call to the project() command.  Add a line of
+[0.009s]   code such as
+[0.009s] 
+[0.009s]     project(ProjectName)
+[0.009s] 
+[0.009s]   near the top of the file, but after cmake_minimum_required().
+[0.009s] 
+[0.009s]   CMake is pretending there is a "project(Project)" command on the first
+[0.009s]   line.
+[0.009s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[0.009s] [0m
+[0.011s] -- Configuring done
+[0.011s] -- Generating done
+[0.012s] -- Build files have been written to: /home/aero-ws/10x_Path_Smoothing/ros2_integration/build/path_smoothing_turtlebot
+[0.013s] Invoked command in '/home/aero-ws/10x_Path_Smoothing/ros2_integration/build/path_smoothing_turtlebot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/aero-ws/10x_Path_Smoothing/ros2_integration -DCMAKE_INSTALL_PREFIX=/home/aero-ws/10x_Path_Smoothing/ros2_integration/install/path_smoothing_turtlebot
+[0.013s] Invoking command in '/home/aero-ws/10x_Path_Smoothing/ros2_integration/build/path_smoothing_turtlebot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aero-ws/10x_Path_Smoothing/ros2_integration/build/path_smoothing_turtlebot -- -j32 -l32
+[0.032s] Invoked command in '/home/aero-ws/10x_Path_Smoothing/ros2_integration/build/path_smoothing_turtlebot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aero-ws/10x_Path_Smoothing/ros2_integration/build/path_smoothing_turtlebot -- -j32 -l32

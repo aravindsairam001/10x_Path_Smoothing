@@ -13,7 +13,7 @@ This package is designed for robotics simulation environments where path plannin
 - Trajectory following using TurtleBot
 - Visualization of the planning and execution in ROS simulation
 
-!(trajectory_following_animation.gif)
+![Path Smoothing](trajectory_following_animation.gif)
 
 ## Getting Started
 

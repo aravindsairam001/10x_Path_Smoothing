@@ -13,6 +13,8 @@ This package is designed for robotics simulation environments where path plannin
 - Trajectory following using TurtleBot
 - Visualization of the planning and execution in ROS simulation
 
+
+
 ## Getting Started
 
 ### Prerequisites

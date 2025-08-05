@@ -1,0 +1,25 @@
+running egg_info
+writing ../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info/entry_points.txt
+writing requirements to ../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info/requires.txt
+writing top-level names to ../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info/top_level.txt
+reading manifest file '../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info/SOURCES.txt'
+running build
+running build_py
+copying turtlebot_path_smoothing/turtlebot_path_node.py -> /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/build/turtlebot_path_smoothing/build/lib/turtlebot_path_smoothing
+copying turtlebot_path_smoothing/stanley_controller.py -> /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/build/turtlebot_path_smoothing/build/lib/turtlebot_path_smoothing
+running install
+running install_lib
+copying /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/build/turtlebot_path_smoothing/build/lib/turtlebot_path_smoothing/turtlebot_path_node.py -> /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/install/turtlebot_path_smoothing/lib/python3.10/site-packages/turtlebot_path_smoothing
+copying /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/build/turtlebot_path_smoothing/build/lib/turtlebot_path_smoothing/stanley_controller.py -> /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/install/turtlebot_path_smoothing/lib/python3.10/site-packages/turtlebot_path_smoothing
+byte-compiling /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/install/turtlebot_path_smoothing/lib/python3.10/site-packages/turtlebot_path_smoothing/turtlebot_path_node.py to turtlebot_path_node.cpython-310.pyc
+byte-compiling /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/install/turtlebot_path_smoothing/lib/python3.10/site-packages/turtlebot_path_smoothing/stanley_controller.py to stanley_controller.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/aero-ws/10x_Path_Smoothing/turtlebot_ws/install/turtlebot_path_smoothing/lib/python3.10/site-packages/turtlebot_path_smoothing-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info to /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/install/turtlebot_path_smoothing/lib/python3.10/site-packages/turtlebot_path_smoothing-0.0.0-py3.10.egg-info
+running install_scripts
+Installing turtlebot_path_node script to /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/install/turtlebot_path_smoothing/lib/turtlebot_path_smoothing
+writing list of installed files to '/home/aero-ws/10x_Path_Smoothing/turtlebot_ws/build/turtlebot_path_smoothing/install.log'

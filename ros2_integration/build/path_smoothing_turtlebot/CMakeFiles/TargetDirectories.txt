@@ -1,2 +1,0 @@
-/home/aero-ws/10x_Path_Smoothing/ros2_integration/build/path_smoothing_turtlebot/CMakeFiles/edit_cache.dir
-/home/aero-ws/10x_Path_Smoothing/ros2_integration/build/path_smoothing_turtlebot/CMakeFiles/rebuild_cache.dir

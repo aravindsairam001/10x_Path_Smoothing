@@ -1,0 +1,24 @@
+[0.225s] Invoking command in '/home/aero-ws/10x_Path_Smoothing/turtlebot_ws/src/turtlebot_path_smoothing': PYTHONPATH=/home/aero-ws/10x_Path_Smoothing/turtlebot_ws/build/turtlebot_path_smoothing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aero-ws/10x_Path_Smoothing/turtlebot_ws/install/turtlebot_path_smoothing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot_path_smoothing build --build-base /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/build/turtlebot_path_smoothing/build install --record /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/build/turtlebot_path_smoothing/install.log --single-version-externally-managed install_data
+[0.308s] running egg_info
+[0.308s] writing ../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info/PKG-INFO
+[0.308s] writing dependency_links to ../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info/dependency_links.txt
+[0.308s] writing entry points to ../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info/entry_points.txt
+[0.308s] writing requirements to ../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info/requires.txt
+[0.308s] writing top-level names to ../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info/top_level.txt
+[0.309s] reading manifest file '../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info/SOURCES.txt'
+[0.309s] writing manifest file '../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info/SOURCES.txt'
+[0.309s] running build
+[0.309s] running build_py
+[0.309s] copying turtlebot_path_smoothing/turtlebot_path_node.py -> /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/build/turtlebot_path_smoothing/build/lib/turtlebot_path_smoothing
+[0.309s] running install
+[0.310s] running install_lib
+[0.310s] copying /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/build/turtlebot_path_smoothing/build/lib/turtlebot_path_smoothing/turtlebot_path_node.py -> /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/install/turtlebot_path_smoothing/lib/python3.10/site-packages/turtlebot_path_smoothing
+[0.310s] byte-compiling /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/install/turtlebot_path_smoothing/lib/python3.10/site-packages/turtlebot_path_smoothing/turtlebot_path_node.py to turtlebot_path_node.cpython-310.pyc
+[0.311s] running install_data
+[0.311s] running install_egg_info
+[0.312s] removing '/home/aero-ws/10x_Path_Smoothing/turtlebot_ws/install/turtlebot_path_smoothing/lib/python3.10/site-packages/turtlebot_path_smoothing-0.0.0-py3.10.egg-info' (and everything under it)
+[0.312s] Copying ../../build/turtlebot_path_smoothing/turtlebot_path_smoothing.egg-info to /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/install/turtlebot_path_smoothing/lib/python3.10/site-packages/turtlebot_path_smoothing-0.0.0-py3.10.egg-info
+[0.313s] running install_scripts
+[0.321s] Installing turtlebot_path_node script to /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/install/turtlebot_path_smoothing/lib/turtlebot_path_smoothing
+[0.321s] writing list of installed files to '/home/aero-ws/10x_Path_Smoothing/turtlebot_ws/build/turtlebot_path_smoothing/install.log'
+[0.331s] Invoked command in '/home/aero-ws/10x_Path_Smoothing/turtlebot_ws/src/turtlebot_path_smoothing' returned '0': PYTHONPATH=/home/aero-ws/10x_Path_Smoothing/turtlebot_ws/build/turtlebot_path_smoothing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aero-ws/10x_Path_Smoothing/turtlebot_ws/install/turtlebot_path_smoothing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot_path_smoothing build --build-base /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/build/turtlebot_path_smoothing/build install --record /home/aero-ws/10x_Path_Smoothing/turtlebot_ws/build/turtlebot_path_smoothing/install.log --single-version-externally-managed install_data

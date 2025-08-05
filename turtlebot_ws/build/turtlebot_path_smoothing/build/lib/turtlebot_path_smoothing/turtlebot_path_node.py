@@ -100,15 +100,15 @@ class TurtleBotPathSmoothingNode(Node):
         # Option 1: S-curve path (smooth curved path)
         demo_waypoints = [
             (start_x, start_y),                    # Start at robot's current position
-            (start_x + 1.0, start_y + 0.5),       # First curve control point
+            # (start_x + 1.0, start_y + 0.5),       # First curve control point
             (start_x + 2.0, start_y + 1.5),       # Peak of first curve
             (start_x + 3.0, start_y + 1.8),       # Top transition point
-            (start_x + 4.0, start_y + 1.5),       # Start descent
+            # (start_x + 4.0, start_y + 1.5),       # Start descent
             (start_x + 5.0, start_y),             # Middle point (straight across)
             (start_x + 6.0, start_y - 1.5),       # Start second curve
-            (start_x + 7.0, start_y - 1.8),       # Bottom transition point
+            # (start_x + 7.0, start_y - 1.8),       # Bottom transition point
             (start_x + 8.0, start_y - 1.5),       # Bottom of second curve
-            (start_x + 9.0, start_y - 0.5),       # Second curve control point
+            # (start_x + 9.0, start_y - 0.5),       # Second curve control point
             (start_x + 10.0, start_y)             # End point
         ]
         

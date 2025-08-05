@@ -2,9 +2,15 @@
 
 A ROS-based project for trajectory smoothing and following with TurtleBot. This repository implements a path smoothing pipeline that enables a TurtleBot to plan a trajectory, apply smoothing algorithms, and follow the resultant optimal path in simulation. 
 
+View Full Working Simulation - [Click Here](https://drive.google.com/file/d/1LspiAaazAiD-Kn80T5TisoxVWLdXRBXj/view)
+
 ## Overview
 
 This package is designed for robotics simulation environments where path planning and execution are critical. The core feature is trajectory smoothing—improving planned paths to be more feasible and efficient for real robots to follow. The final demonstration and usage is visualized through the `complete_simulation.launch` file, which brings up a simulation where the TurtleBot plans and follows a smoothed trajectory.
+
+![Path Smoothing](trajectory_following_animation.gif)
+
+![Obstacle_Avoidance](obstacle_avoidance_animation.gif)
 
 ## Features
 
